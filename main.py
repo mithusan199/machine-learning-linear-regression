@@ -31,3 +31,4 @@ model.fit(x[:,np.newaxis],y)
 print("model slope: ",model.coef_[0])
 print("model intercept: ",model.intercept_)
 
+print("hi")
